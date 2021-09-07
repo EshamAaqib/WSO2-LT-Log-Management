@@ -52,6 +52,26 @@
 ###### Apache Server (/module.d/System.yml)
 ![6 9) System yml (apache node)](https://user-images.githubusercontent.com/75664650/132390935-a7aae404-4915-4520-8db0-4f9f9739ac68.PNG)
 
+### 7. CRUD Operation in Dev Tools
+
+###### Create
+![7 1](https://user-images.githubusercontent.com/75664650/132393410-3357b172-6a64-4745-86fb-0af9b97ba760.png)
+
+###### Create
+![7 2)](https://user-images.githubusercontent.com/75664650/132393422-56d07b58-0d50-4f28-b4c5-4e555fda0069.png)
+
+###### Read
+![7 3)](https://user-images.githubusercontent.com/75664650/132393449-9cff22ca-977c-4640-8408-42289b9c3d40.png)
+
+###### Update
+![7 4)](https://user-images.githubusercontent.com/75664650/132393488-bea6aff0-e7fc-46bc-8ab8-fa34c7eb4ae3.png)
+
+###### Read
+![7 5)](https://user-images.githubusercontent.com/75664650/132393500-2b4935ab-6b3f-49f8-a015-6c7c3a301da8.png)
+
+###### Delete
+![7 6)](https://user-images.githubusercontent.com/75664650/132393523-c914c0ae-664b-4dcd-8d7e-0ac4f4cc7aaf.png)
+
 
 
 
