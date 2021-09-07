@@ -37,19 +37,19 @@
 ###### Nginx Server (filebeat.yml)
 ![6 4) filebeat yml (nginx node)](https://user-images.githubusercontent.com/75664650/132390776-3cbbf91a-55f5-447d-8f2f-c2123081e2d8.PNG)
 
-###### Nginx Server (/modules.d/nginx.yml)
+###### Nginx Server (/module.d/nginx.yml)
 ![6 5) nginx yml (nginx node)](https://user-images.githubusercontent.com/75664650/132390825-7d22d9e7-f3e0-4ce3-bf6f-ce74df17a68e.PNG)
 
-###### Nginx Server (/modules.d/system.yml)
+###### Nginx Server (/module.d/system.yml)
 ![6 6) system yml (nginx node)](https://user-images.githubusercontent.com/75664650/132390859-953758b9-579c-4caf-b941-45200d55ba90.PNG)
 
 ###### Apache Server (filebeat.yml)
 ![6 7) filebeat yml (apache node)](https://user-images.githubusercontent.com/75664650/132390870-6d3740e7-6987-4c80-b190-1bcc1b972479.PNG)
 
-###### Apache Server (/modules.d/apache.yml)
+###### Apache Server (/module.d/apache.yml)
 ![6 8) Apache yml (apache node)](https://user-images.githubusercontent.com/75664650/132390889-a536e0a4-4b92-419f-8e9e-64600c5453be.PNG)
 
-###### Apache Server (/modules.d/System.yml)
+###### Apache Server (/module.d/System.yml)
 ![6 9) System yml (apache node)](https://user-images.githubusercontent.com/75664650/132390935-a7aae404-4915-4520-8db0-4f9f9739ac68.PNG)
 
 
