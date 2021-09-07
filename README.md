@@ -76,11 +76,11 @@
 
 ### 1. What is an index, shard and replica-shard?
 
-### i. Index - An index is simmilar to a database in a relational database. Index is a logical namespace where which is mapped to a single or more primary shard and also it can 0 or multiple replica shards or we can call it a collection of documents.
+> i. Index - An index is simmilar to a database in a relational database. Index is a logical namespace where which is mapped to a single or more primary shard and also it can 0 or multiple replica shards or we can call it a collection of documents.
 
-### ii. Shard - Data in Elasticsearch is organized into indices. Indices are divided into multiple units called shards. Additionally Shards helps to make elasticsearch horizantally scalable
+> ii. Shard - Data in Elasticsearch is organized into indices. Indices are divided into multiple units called shards. Additionally Shards helps to make elasticsearch horizantally scalable
 
-### iii. Replica-shard: Every primary shards has its exact copy and we call it replica shards.The main purpose of replica shards are to to increase search performance and as a failover.
+> iii. Replica-shard: Every primary shards has its exact copy and we call it replica shards.The main purpose of replica shards are to to increase search performance and as a failover.
 
 
 
