@@ -26,7 +26,7 @@
 ### **6 Screenshots of Config Files (I have uploaded the config files to the Config Files folder as well)**
 
 ### Elasticsearch Server (elasticsearch.yml)
-![6 1 elasticsearch yml (Server Node)](https://user-images.githubusercontent.com/75664650/132390632-71b595ae-f454-432f-8602-6ecebc53892b.PNG)
+> ![6 1 elasticsearch yml (Server Node)](https://user-images.githubusercontent.com/75664650/132390632-71b595ae-f454-432f-8602-6ecebc53892b.PNG)
 
 ### Elasticsearch Server (Kibana.yml)
 ![6 2 kibana yml (Server Node)](https://user-images.githubusercontent.com/75664650/132390659-8576e619-85e5-4ff2-a090-05c41f351eb0.PNG)
