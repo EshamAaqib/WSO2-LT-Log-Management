@@ -101,6 +101,19 @@
 > > 2. Needs to be fast for both reads and writes. 
 > > 3. Required more hardware resources and faster storage
 
+> Warm Node -
+> > 1. Moved to Warm Node once the time sereis data is infrequently accessed from the hot Node.
+> > 2. Does not require high performance as the hot node
+> > 3. Update are allowed
+
+> Cold Node -
+> > 1. Its almost same as the warm node but it stores data that aren't updated.
+> > 2. Data is not updated
+
+> Frozen Node -
+> > 1. Once data is no longer being queierd data is transferred to the Frozen node to the cold node for its lifetime
+> > 2. Helps to cut down costs
+
 
 
 
