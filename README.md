@@ -26,7 +26,7 @@
 ### **6 Screenshots of Config Files (I have uploaded the config files to the Config Files folder as well)**
 
 ### Elasticsearch Server (elasticsearch.yml)
-> ![6 1 elasticsearch yml (Server Node)](https://user-images.githubusercontent.com/75664650/132390632-71b595ae-f454-432f-8602-6ecebc53892b.PNG)
+![6 1 elasticsearch yml (Server Node)](https://user-images.githubusercontent.com/75664650/132390632-71b595ae-f454-432f-8602-6ecebc53892b.PNG)
 
 ### Elasticsearch Server (Kibana.yml)
 ![6 2 kibana yml (Server Node)](https://user-images.githubusercontent.com/75664650/132390659-8576e619-85e5-4ff2-a090-05c41f351eb0.PNG)
@@ -93,6 +93,13 @@
 ### 4. How does hot-warm architecture help for data management?
 
 > As mentioned above the Hot-Warm Architecture use 3 type of nodes which we call Master, Hot-Node and Warm-Node. These speicifc nodes are specifically designed perform different tasks. Performing tasks seperately on the designated node will help improve the performance of the whole cluster and improves the availability of the cluster. Also as the tasks are performed sperately on the designated node it makes it easier to do the data managemnt.  
+
+### 5. Compare the performance of Hot, Warm, Cold and Frozen nodes
+
+> Hot Node - 
+> > 1. Holds most recent, most frequently used time series data. 
+> > 2. Needs to be fast for both reads and writes. 
+> > 3. Required more hardware resources and faster storage
 
 
 
