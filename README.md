@@ -86,6 +86,14 @@
 
 > Sharding splits data into small subsets and it distributes them among seperate servers which has its Memory, CPU, Disk, etc. As its distrbuted among seperate servers it enables proper load balancing as its all the load is not handled by one single server which imrpoves the performance drastically and scalability 
 
+### 3. What is Hot-Warm architecture?
+
+> Elasticsearch uses a tiered architecture for large time data analytics. This architecture had 3 different types of nodes which are Master, Hot-Node and Wamr-Node. We can call this as the Hot-Warm Architecture. Master Nodes are responsible in handling cluster management and state which enhaces the overall stability. Hot nodes are used to perfom indexing within the cluster. Also they hold the most recent indices. Warm Nodes are designated to handle a large amount of read-only indices which very unlikely to be queried frequently. 
+
+### 4. How does hot-warm architecture help for data management?
+
+> 
+
 
 
 
