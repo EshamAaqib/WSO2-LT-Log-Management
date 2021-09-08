@@ -92,8 +92,7 @@
 
 ### 4. How does hot-warm architecture help for data management?
 
-> 
-
+> As mentioned above the Hot-Warm Architecture use 3 type of nodes which we call Master, Hot-Node and Warm-Node. These speicifc nodes are specifically designed perform different tasks. Performing tasks seperately on the designated node will help improve the performance of the whole cluster and improves the availability of the cluster. Also as the tasks are performed sperately on the designated node it makes it easier to do the data managemnt.  
 
 
 
