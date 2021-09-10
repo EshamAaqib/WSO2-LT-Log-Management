@@ -114,6 +114,17 @@
 > > 1. Once data is no longer being queierd data is transferred to the Frozen node to the cold node for its lifetime
 > > 2. Helps to cut down costs
 
+### 6. Describe How did you achieve the 10th point of Part -1 (I assumed it as 9th point as there is no 10th point in Part 1)
+
+> When configuring the nginx server I used filebeats to send the logs to the logstash server. But when it came to the apacher server the requirenment was to send the logs direclty yo the elasticsearch server, So I installed filebeat on apacher server and send the logs direclty to the elasticsearch server instead of sending it to the logstash server. I used the apache module and the system module in filebeats.
+
+### 7. What are elasticsearch based products currently available in the market as log management solutions.Give a brief comparison about at least 3 products.
+
+> ELK -  ELK stack combines three open source projects. Which ElasticSearch as a search and analytics engine. Logstash for centralizing loging and beign used as a pipeline. Kibana for visualizing the data using a user interface
+
+> Akeno - Akeno also uses ElasticSearch and Akeno is a Product Information Management application which is designed to simplify the product management process. 
+
+> SonarQube - SonarQube uses ElasticSearch as well. It is an open source Quality Management Platform that analyzes and measures code's technical quality.
 
 
 
